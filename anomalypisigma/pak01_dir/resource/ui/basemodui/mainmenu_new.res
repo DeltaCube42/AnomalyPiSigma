@@ -17,7 +17,7 @@
 	}
 						
 	// Single player
-	"BtnPlaySolo"
+	"BtnExtras"
 	{
 		"ControlName"				"BaseModHybridButton"
 		"fieldName"					"BtnPlaySolo"
@@ -37,7 +37,7 @@
 		"navUp"						"BtnQuit"	[$GAMECONSOLE]
 		"navUp"						"BtnEconUI"		[!$GAMECONSOLE]
 		"navDown"					"BtnCoOp"
-		"labelText"					"Play Anomaly Pi Sigma"
+		"labelText"					"Embrace It"
 		"style"						"MainMenuButton"
 		"command"					"Extras"
 		"ActivationType"			"1"
@@ -65,7 +65,7 @@
 		"navUp"						"BtnCommunity"	[!$GAMECONSOLE]
 		"navDown"					"BtnPlaySolo"		[$GAMECONSOLE]
 		"navDown"					"BtnExtras"			[!$GAMECONSOLE]
-		"labelText"					"#PORTAL2_MainMenu_Options"
+		"labelText"					"Adjustments"
 		"style"						"MainMenuButton"
 		"command"					"Options"
 		"ActivationType"			"1"
@@ -87,7 +87,7 @@
 		"tabPosition"				"0"
 		"navUp"						"BtnExtras"
 		"navDown"					"BtnEconUI"
-		"labelText"					"#PORTAL2_MainMenu_Quit"
+		"labelText"					"Run Away"
 		"style"						"MainMenuButton"
 		"command"					"QuitGame"
 		"ActivationType"			"1"
