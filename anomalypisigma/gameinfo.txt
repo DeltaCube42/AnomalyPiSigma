@@ -3,6 +3,7 @@
 	game 		"Anomaly Pi Sigma"
 	title 		"anomalypisigma"
 	GameData	"portal2.fgd"
+	icon		"resource/icon"
 	gamelogo 	1
     author		"Extrapolated Developers"
 

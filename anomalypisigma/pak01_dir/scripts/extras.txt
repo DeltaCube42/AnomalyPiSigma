@@ -3,7 +3,7 @@
     "chapter1"
     {
         "title" "Chapter 1"
-        "subtitle"  "The Developer's Test"
+        "subtitle"  "The Simulation"
         "command"   "map devtestermap" //map name to start the first chapter
         "pic"   "vgui/chapters/chapter1"
     }
@@ -11,7 +11,7 @@
     "chapter2"
     {
         "title" "Chapter 2"
-        "subtitle"  "Unimplimented"
+        "subtitle"  "Daybreak"
         "command"   "map devtestmap" //map name to start the second chapter and so on
         "pic"   "vgui/chapters/chapter2"
     }
