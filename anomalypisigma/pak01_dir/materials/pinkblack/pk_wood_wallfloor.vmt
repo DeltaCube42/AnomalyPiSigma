@@ -1,0 +1,6 @@
+LightmappedGeneric
+{
+$baseTexture "pinkblack/pk_wood_wallfloor"
+$surfaceprop wood
+"%keywords" Pixel
+}

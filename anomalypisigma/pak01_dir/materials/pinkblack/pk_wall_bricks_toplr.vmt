@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "pinkblack/pk_wall_bricks_toplr"
+	"$surfaceprop" "wood"
+	"$bumpmap" "pinkblack/pk_video_wall_genbricks_sbump"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+}

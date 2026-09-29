@@ -1,0 +1,6 @@
+LightmappedGeneric
+{
+$baseTexture "pinkblack/pk_floor_smothcon_lightgray"
+$surfaceprop concrete
+"%keywords" voidplaces
+}

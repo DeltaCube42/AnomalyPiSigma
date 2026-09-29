@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "pinkblack/pk_wall_SPlaster_pink"
+	"$surfaceprop" "metal"
+	"$bumpmap" "pinkblack/pk_wall_SPlaster_generic_sbump"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+}
