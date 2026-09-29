@@ -1,0 +1,6 @@
+LightmappedGeneric
+{
+$baseTexture "pinkblack/pk_wall_plastersetA_woodetrim"
+$surfaceprop plaster
+"%keywords" Pixel
+}

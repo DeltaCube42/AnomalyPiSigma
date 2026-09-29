@@ -1,0 +1,6 @@
+LightmappedGeneric
+{
+$baseTexture "pinkblack/pk_floor_carpetlinearyellow"
+$surfaceprop carpet
+"%keywords" Pixel
+}
