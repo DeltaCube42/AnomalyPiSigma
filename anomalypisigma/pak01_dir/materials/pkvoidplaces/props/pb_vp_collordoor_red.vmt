@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+$baseTexture "pkvoidplaces/props/pb_vp_collordoor_red"
+	
+$surfaceprop metal
+"%keywords" pinkprop
+}

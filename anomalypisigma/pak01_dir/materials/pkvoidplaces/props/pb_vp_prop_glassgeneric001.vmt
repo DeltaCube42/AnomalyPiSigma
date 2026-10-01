@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+$baseTexture "pkvoidplaces/props/pb_vp_prop_glassgeneric001"
+"$translucent" 1
+$surfaceprop metal
+"%keywords" pinkprop
+}

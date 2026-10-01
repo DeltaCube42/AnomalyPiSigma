@@ -4,7 +4,7 @@
     {
         "title" "Chapter 1"
         "subtitle"  "The Simulation"
-        "command"   "map devtestermap" //map name to start the first chapter
+        "command"   "map sp_a1_aps_tutorial" //map name to start the first chapter
         "pic"   "vgui/chapters/chapter1"
     }
 	// You can copy as many as you want
@@ -12,7 +12,14 @@
     {
         "title" "Chapter 2"
         "subtitle"  "Daybreak"
-        "command"   "map devtestmap" //map name to start the second chapter and so on
+        "command"   "map devtestermap" //map name to start the second chapter and so on
         "pic"   "vgui/chapters/chapter2"
+    }
+	"chapter3"
+    {
+        "title" "DEVSTUFF"
+        "subtitle"  "Cool Developer Stuff!"
+        "command"   "map devtestermap" //map name to start the second chapter and so on
+        "pic"   "vgui/chapters/developer"
     }
 }

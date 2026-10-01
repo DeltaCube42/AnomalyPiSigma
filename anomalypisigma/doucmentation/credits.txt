@@ -19,11 +19,11 @@ Music assets:
 	- "DIVA BEAM" by METAROOM
 	- https://youtu.be/mkcHFedc0sw?si=25rtQXEgligHkI6J
 
-../anomalypisigma/pak01_dir/sound/aps_customaudio/cringeradiotest.wav
+../anomalypisigma/pak01_dir/sound/aps_customaudio/music/cringeradiotest.wav
 	- "TikTok Sigma Male Trillionare Grindset" by Kane Parsons
 	- https://youtu.be/f6EVMdEAXTY?si=q1IZUBzaW1rP3JnO
 
-../anomalypisigma/pak01_dir/sound/aps_customaudio/genuineradiotest.wav
+../anomalypisigma/pak01_dir/sound/aps_customaudio/music/actualradiotest.wav
 	- "Old Home Not Yet Built" by Kane Parsons
 	- The link keeps moving. I'm not going to bother to keep updating this one.
 

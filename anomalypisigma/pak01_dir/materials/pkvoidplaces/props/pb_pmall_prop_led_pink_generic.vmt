@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+$basetexture "pkvoidplaces/props/pb_pmall_prop_led_pink_generic"
+"$model" 1
+$surfaceprop glass
+"%keywords" pinkprop
+}
