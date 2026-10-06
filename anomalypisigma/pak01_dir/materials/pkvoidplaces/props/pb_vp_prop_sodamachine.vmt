@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+$baseTexture "pkvoidplaces/props/pb_vp_prop_sodamachine"
+	
+$surfaceprop metal
+"%keywords" pinkprop
+}

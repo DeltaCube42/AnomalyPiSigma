@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+$baseTexture "pkvoidplaces/props/pb_vprop_wood_cardwall_v2"
+$surfaceprop wood
+"%keywords" pinkprop
+}

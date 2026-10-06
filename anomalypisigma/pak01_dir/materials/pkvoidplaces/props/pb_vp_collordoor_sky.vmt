@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+$baseTexture "pkvoidplaces/props/pb_vp_collordoor_sky"
+	
+$surfaceprop metal
+"%keywords" vmallup
+}

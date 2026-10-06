@@ -1,0 +1,15 @@
+"unlitgeneric"
+{
+"$baseTexture" "pkvoidplaces/vurban/voffice/vp_vremake_vendingmachine_anim_water"
+"$surfaceprop" "computer"
+
+"Proxies"
+{
+"AnimatedTexture"
+{
+"animatedTextureVar" "$basetexture"
+"animatedTextureFrameNumVar" "$frame"
+"animatedTextureFrameRate" "20"
+}
+}
+}

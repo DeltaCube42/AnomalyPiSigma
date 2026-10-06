@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+$basetexture
+"pkvoidplaces/props/pb_pmall_carparts_tiregeneric"
+$surfaceprop rubber
+"%keywords" voidmall
+}

@@ -1,0 +1,17 @@
+"aps.cringeradio"
+{
+    "channel"        "CHAN_STATIC"
+    "volume"         "1.0"
+    "pitch"          "PITCH_NORM"
+    "soundlevel"     "SNDLVL_NORM"
+    "wave"           "aps_customaudio/music/cringeradiotest.wav"
+}
+
+"aps.actualradio"
+{
+    "channel"        "CHAN_STATIC"
+    "volume"         "1.0"
+    "pitch"          "PITCH_NORM"
+    "soundlevel"     "SNDLVL_NORM"
+    "wave"           "aps_customaudio/music/actualradiotest.wav"
+}

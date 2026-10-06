@@ -1,0 +1,24 @@
+Asset Credits:
+All assets not created by the team will be listed here.
+
+-------------------------------------------------------------------
+
+1. Assets from "Void Places" by P'nk Black:
+../anomalypisigma/pak01_dir/materials/pinkblack
+../anomalypisigma/pak01_dir/materials/pkvoidplaces
+../anomalypisigma/pak01_dir/models/pkblack
+
+Source:
+https://steamcommunity.com/sharedfiles/filedetails/?id=3046797408
+
+-------------------------------------------------------------------
+
+2. Player model by FalkenJr
+../anomalypisigma/pak01_dir/materials/vpc_flk_whitecom_pms
+../anomalypisigma/pak01_dir/models/player/chell
+	^NOTE : This directory's name and associated files were renamed so that Source would read the files in place of the default player model.
+
+Source:
+https://steamcommunity.com/sharedfiles/filedetails/?id=3728671707
+
+-------------------------------------------------------------------

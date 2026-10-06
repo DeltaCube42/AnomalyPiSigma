@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "pinkblack/pk_video_pixel_floor_smalltiles_amarelo"
+	"$surfaceprop" "tile"
+	"$bumpmap" "pinkblack/pk_video_tilesSbump"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+}

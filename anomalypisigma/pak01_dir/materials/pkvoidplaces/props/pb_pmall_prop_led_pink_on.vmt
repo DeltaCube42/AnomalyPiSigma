@@ -1,0 +1,6 @@
+"unlitgeneric"
+{
+	$model 1 $basetexture "pkvoidplaces/props/pb_pmall_prop_led_pink_on"
+$surfaceprop glass
+"%keywords" voidmall
+}

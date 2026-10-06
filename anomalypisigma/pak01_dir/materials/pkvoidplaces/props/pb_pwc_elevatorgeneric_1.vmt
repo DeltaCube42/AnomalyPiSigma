@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+$baseTexture "pkvoidplaces/props/pb_pwc_elevatorgeneric_1"
+$surfaceprop metal
+"%keywords" wcomplex
+}

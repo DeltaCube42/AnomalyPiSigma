@@ -1,0 +1,6 @@
+LightmappedGeneric
+{
+$baseTexture "pinkblack/pk_pixel_metallikewall"
+$surfaceprop concrete
+"%keywords" Pixel
+}
