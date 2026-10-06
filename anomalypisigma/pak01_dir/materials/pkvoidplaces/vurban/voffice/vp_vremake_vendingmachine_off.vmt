@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	$model 1 
+$basetexture "pkvoidplaces/vurban/voffice/vp_vremake_vendingmachine_off"
+$surfaceprop glass
+"%keywords" vremake
+}

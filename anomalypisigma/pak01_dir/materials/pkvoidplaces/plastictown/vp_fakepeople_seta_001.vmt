@@ -1,0 +1,6 @@
+vertexlitgeneric
+{
+$baseTexture "pkvoidplaces/plastictown/vp_fakepeople_setA_001"
+$surfaceprop wood
+"%keywords" plastict
+}

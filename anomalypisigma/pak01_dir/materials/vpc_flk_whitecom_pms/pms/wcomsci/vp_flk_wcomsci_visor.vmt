@@ -1,0 +1,25 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "vpc_flk_whitecom_pms\pms\wcomExp\vp_flk_wcomExp_gear_alb"
+	$alphatest 1
+	
+	$nocull 1
+
+	$phong 1
+	$phongboost 2
+	$phongexponent 15
+	$phongfresnelranges "[.5 .5 4.5]"
+	$phongdisablehalflambert 1
+
+	"$lightwarptexture" "vpc_flk_whitecom_pms\shared\vp_flk_shared_lightwarp"
+	
+	"$bumpmap" "vpc_flk_whitecom_pms\shared\vp_flk_shared_nrm"
+
+	$envmap env_cubemap
+	$envmaptint "[.1 .1 .1]"
+	$envmapfresnel 1
+
+	$rimlight 1
+	$rimlightexponent 2
+	$rimlightboost 5
+}

@@ -1,0 +1,21 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "vpc_flk_whitecom_pms\pms\wcomsci\vp_flk_wcomsci_details_alb"
+
+	$alphatest 1
+	
+	$phong 1
+	$phongboost .1
+	$phongexponent 1
+	$phongfresnelranges "[.2 .5 4.5]"
+	$phongdisablehalflambert 1
+
+	"$lightwarptexture" "vpc_flk_whitecom_pms\shared\vp_flk_shared_lightwarp"
+	
+	"$bumpmap" "vpc_flk_whitecom_pms\shared\vp_flk_shared_nrm"
+
+	$rimlight 1
+	$rimlightexponent 1.5
+	$rimlightboost 0.25
+
+}
