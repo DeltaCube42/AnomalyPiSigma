@@ -1,4 +1,4 @@
-Music assets:
+Music Credits:
 ../anomalypisigma/pak01_dir/sound/music/mainmenu/portal2_background01.wav
 	- "Beyond" by OVERWERK
 	- https://youtu.be/9Vjt_K7rsnw?si=KdpGJ3aIIuoGqR9f
@@ -24,6 +24,6 @@ Music assets:
 	- https://youtu.be/f6EVMdEAXTY?si=q1IZUBzaW1rP3JnO
 
 ../anomalypisigma/pak01_dir/sound/aps_customaudio/music/actualradiotest.wav
-	- "Old Home Not Yet Built" by Kane Parsons
-	- The link keeps moving. I'm not going to bother to keep updating this one.
+	- "I Don't Know (Instrumental Radio)" by Erika de Bonis
+	- https://youtu.be/ImbQ9ZujR5M?si=8VU6fdUHuvPWzFaR
 

@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "pinkblack/pk_pillar_concrete"
+	"$surfaceprop" "concrete"
+	"$bumpmap" "pinkblack/pk_pillar_concrete_sbump"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+}
