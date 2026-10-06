@@ -1,0 +1,1 @@
+This folder is not designed for use within the mod itself, and is purely meant for WIP map files / uncompiled map files. Only upload VMFs here.
