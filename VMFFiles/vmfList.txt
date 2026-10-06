@@ -1,1 +1,7 @@
 This folder is not designed for use within the mod itself, and is purely meant for WIP map files / uncompiled map files. Only upload VMFs here.
+For these maps to be compiled properly, you must make sure the file is located in "..\Steam\steamapps\common\Portal 2\sdk_content\maps" and then open them in Hammer++.
+When you run/compile a .vmf file, it will create a .bsp file at the same directory and have the same name. That file can be then uploaded and shared.
+Please note the name of your .vmf and what is within the map itself.
+
+devtestermap.vmf - Joshua - Developer map for testing purposes. Feel free to use and edit however you'd like!
+sp_a1_aps_welcome.vmf - Joshua - The opening of the tutorial/chapter 1.
