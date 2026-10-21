@@ -1,0 +1,9 @@
+"lightmappedGeneric"
+{
+	// Original shader: BaseTextureAlphaBlend
+	"$basetexture"	"pkvoidplaces/vp_decal_shadows"
+	"$translucent" "1"
+	"$decal" "1"
+	"$decalscale" "1"
+
+}

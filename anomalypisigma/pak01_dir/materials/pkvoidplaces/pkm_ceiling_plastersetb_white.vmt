@@ -1,0 +1,6 @@
+LightmappedGeneric
+{
+$baseTexture "pkvoidplaces/pkm_ceiling_plastersetB_white"
+$surfaceprop plaster
+"%keywords" void
+}

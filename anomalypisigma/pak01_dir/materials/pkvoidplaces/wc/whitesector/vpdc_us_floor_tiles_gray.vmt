@@ -1,0 +1,6 @@
+LightmappedGeneric
+{
+$baseTexture "pkvoidplaces/wc/whitesector/vpdc_us_floor_tiles_gray"
+$surfaceprop tile
+"%keywords" us
+}

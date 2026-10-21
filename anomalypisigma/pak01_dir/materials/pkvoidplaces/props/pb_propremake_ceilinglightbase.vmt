@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+$baseTexture "pkvoidplaces/props/pb_propremake_ceilinglightbase"
+$surfaceprop metal
+"%keywords" wc
+}

@@ -1,0 +1,6 @@
+LightmappedGeneric
+{
+$baseTexture "pkvoidplaces/pb_mall_plaster_skywall"
+$surfaceprop plaster
+"%keywords" vmall
+}

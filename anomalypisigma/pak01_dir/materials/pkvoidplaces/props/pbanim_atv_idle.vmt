@@ -1,0 +1,18 @@
+"unlitgeneric"
+{
+"$baseTexture" "pkvoidplaces/props/pbanim_atv_idle"
+"$detail" "pkvoidplaces/maskandvfx/vmask/vp_mask_monitorgeneric_c_broken2"
+"$detailblendmode" 1
+"$detailtexturetransform" 2
+"$detailblendfactor" 2
+"$surfaceprop" "Default"
+"Proxies"
+{
+"AnimatedTexture"
+{
+"animatedTextureVar" "$basetexture"
+"animatedTextureFrameNumVar" "$frame"
+"animatedTextureFrameRate" "30"
+}
+}
+}

@@ -1,0 +1,6 @@
+LightmappedGeneric
+{
+$baseTexture "pkvoidplaces/pb_setplankhell_floorA_2"
+$surfaceprop wood
+"%keywords" phell
+}

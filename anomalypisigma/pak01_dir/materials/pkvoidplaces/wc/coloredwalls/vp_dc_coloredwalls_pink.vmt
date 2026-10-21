@@ -1,0 +1,6 @@
+LightmappedGeneric
+{
+$baseTexture "pkvoidplaces/wc/coloredwalls/vp_dc_coloredwalls_pink"
+$surfaceprop plaster
+"%keywords" wcollor
+}

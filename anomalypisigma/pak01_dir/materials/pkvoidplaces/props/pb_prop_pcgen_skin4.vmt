@@ -1,0 +1,6 @@
+"unlitgeneric"
+{
+	$model 1 $basetexture "pkvoidplaces/props/pb_prop_pcgen_skin4"
+$surfaceprop metal
+"%keywords" pinkprop
+}
