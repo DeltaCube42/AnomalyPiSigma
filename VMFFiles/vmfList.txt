@@ -5,3 +5,5 @@ Please note the name of your .vmf and what is within the map itself.
 
 devtestermap.vmf - Joshua - Developer map for testing purposes. Feel free to use and edit however you'd like!
 sp_a1_aps_welcome.vmf - Joshua - The opening of the tutorial/chapter 1.
+sp_a1_aps_welcomeDEMO.vmf - Joshua - The opening of the tutorial/chapter 1 made specifically for the midterm.
+sp_a2_aps_mensis.vmf - Joshua - First level based off of "Mensis Madness" documentation.
