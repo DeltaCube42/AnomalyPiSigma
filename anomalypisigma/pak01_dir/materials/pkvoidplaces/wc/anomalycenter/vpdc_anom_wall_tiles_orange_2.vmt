@@ -1,0 +1,6 @@
+LightmappedGeneric
+{
+$baseTexture "pkvoidplaces/wc/anomalycenter/vpdc_anom_wall_tiles_orange_2"
+$surfaceprop tile
+"%keywords" anomaly
+}

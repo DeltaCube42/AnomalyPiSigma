@@ -1,0 +1,6 @@
+LightmappedGeneric
+{
+$baseTexture "pkvoidplaces/wc/pb_wc_nature_lightgrass"
+$surfaceprop grass
+"%keywords" wcnature
+}

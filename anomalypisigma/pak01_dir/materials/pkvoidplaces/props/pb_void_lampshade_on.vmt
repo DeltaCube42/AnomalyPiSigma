@@ -1,0 +1,6 @@
+"unlitgeneric"
+{
+$baseTexture "pkvoidplaces/props/pb_void_lampshade_on"
+$surfaceprop plaster
+"%keywords" voidspace
+}

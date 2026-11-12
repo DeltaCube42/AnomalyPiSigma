@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+$basetexture "pkvoidplaces/vurban/vurbanprop/pbvfurniture/vp_prop_furniturev2_matfabric_green"
+"$model" 1
+$surfaceprop carpet
+"%keywords" vfurni
+}

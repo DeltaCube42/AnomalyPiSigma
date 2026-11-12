@@ -1,0 +1,8 @@
+LightmappedGeneric
+{
+	"$basetexture"	"pkvoidplaces/pb_decal_evergone"
+	"$translucent" "1"
+	"$decal" "1"
+	"$decalscale" "0.25"
+
+}

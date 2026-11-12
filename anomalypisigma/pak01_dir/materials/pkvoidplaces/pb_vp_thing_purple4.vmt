@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+$baseTexture "pkvoidplaces/pb_vp_thing_purple4"
+$translucent 1
+$surfaceprop "flesh"
+"%keywords" pink
+}

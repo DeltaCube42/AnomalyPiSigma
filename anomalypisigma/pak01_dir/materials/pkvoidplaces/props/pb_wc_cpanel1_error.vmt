@@ -1,0 +1,6 @@
+"unlitgeneric"
+{
+	$model 1 $basetexture "pkvoidplaces/props/pb_wc_cpanel1_error"
+$surfaceprop glass
+"%keywords" wc
+}

@@ -1,0 +1,19 @@
+"unlitgeneric"
+{
+// Original shader: BaseTextureAlphaBlend
+	
+"$baseTexture" "pkvoidplaces/vp_decal_roots_anim"
+"$translucent" 1
+"$decal" "1"
+"$decalscale" "1"
+"$surfaceprop" "Default"
+"Proxies"
+{
+"AnimatedTexture"
+{
+"animatedTextureVar" "$basetexture"
+"animatedTextureFrameNumVar" "$frame"
+"animatedTextureFrameRate" "15"
+}
+}
+}

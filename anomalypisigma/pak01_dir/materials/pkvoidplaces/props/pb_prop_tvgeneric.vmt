@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+$basetexture "pkvoidplaces/props/pb_prop_tvgeneric"
+$surfaceprop metal
+"%keywords" pinkprop
+}

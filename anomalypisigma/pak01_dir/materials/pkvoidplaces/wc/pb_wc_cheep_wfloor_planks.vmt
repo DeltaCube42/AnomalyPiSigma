@@ -1,0 +1,6 @@
+LightmappedGeneric
+{
+$baseTexture "pkvoidplaces/wc/pb_wc_cheep_wfloor_planks"
+$surfaceprop wood
+"%keywords" wcomplex
+}

@@ -1,0 +1,9 @@
+"unlitgeneric"
+{
+	// Original shader: BaseTextureAlphaBlend
+	"$basetexture"	"pkvoidplaces/vp_decal_pnk"
+	"$translucent" "1"
+	"$decal" "1"
+	"$decalscale" "1"
+
+}

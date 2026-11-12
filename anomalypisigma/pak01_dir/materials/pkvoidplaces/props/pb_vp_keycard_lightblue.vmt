@@ -1,0 +1,9 @@
+"vertexlitgeneric"
+{
+$baseTexture "pkvoidplaces/props/pb_vp_keycard_lightblue"
+$alphatest 1
+$nocull 1
+$translucent 1
+$surfaceprop "metal"
+"%keywords" pink
+}

@@ -1,0 +1,6 @@
+LightmappedGeneric
+{
+$baseTexture "pkvoidplaces/pb_vp_ceiling_whitegeneric1"
+$surfaceprop concrete
+"%keywords" voidplaces
+}

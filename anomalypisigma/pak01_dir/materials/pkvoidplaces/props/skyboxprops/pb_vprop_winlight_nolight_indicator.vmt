@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+$baseTexture "pkvoidplaces/props/skyboxprops/pb_vprop_winlight_nolight"
+$surfaceprop glass
+"%keywords" vpskybox
+}

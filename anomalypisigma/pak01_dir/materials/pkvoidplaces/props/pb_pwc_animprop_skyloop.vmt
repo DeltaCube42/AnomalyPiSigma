@@ -1,0 +1,19 @@
+"unlitgeneric"
+{
+	"$basetexture" "pkvoidplaces/props/pb_pwc_animprop_skyloop"
+"$detail" "pkvoidplaces/maskandvfx/vmask/vp_mask_monitorgeneric_c"
+"$detailblendmode" 2
+"$detailtexturetransform" 2
+"$detailblendfactor" 2
+	
+
+"Proxies"
+{
+	"TextureScroll"
+	{
+		texturescrollvar $baseTextureTransform
+		texturescrollrate 0.03
+		texturescrollangle 5
+	}
+}
+}
