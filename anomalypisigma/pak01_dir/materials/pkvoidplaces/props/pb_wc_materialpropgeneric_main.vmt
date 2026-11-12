@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+$baseTexture "pkvoidplaces/props/pb_wc_materialpropgeneric_main"
+$surfaceprop metal
+"%keywords" wcprop
+}

@@ -1,0 +1,6 @@
+"unlitgeneric"
+{
+	$model 1 $basetexture "pkvoidplaces/props/skyboxprops/pb_vprop_winlight_green"
+$surfaceprop glass
+"%keywords" vpskybox
+}

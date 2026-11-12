@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+$baseTexture "pkvoidplaces/props/pb_vp_pipesSetA_yellow"
+	
+$surfaceprop metal
+"%keywords" pinkprop
+}

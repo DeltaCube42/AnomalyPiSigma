@@ -15,3 +15,57 @@
     "soundlevel"     "SNDLVL_NORM"
     "wave"           "aps_customaudio/music/actualradiotest.wav"
 }
+
+"aps.funfact"
+{
+    "channel"        "CHAN_STATIC"
+    "volume"         "1.0"
+    "pitch"          "PITCH_NORM"
+    "soundlevel"     "SNDLVL_NORM"
+    "wave"           "aps_customaudio/vocal/dynamic.wav"
+}
+
+"aps.introTutorial"
+{
+    "channel"        "CHAN_STATIC"
+    "volume"         "1.0"
+    "pitch"          "PITCH_NORM"
+    "soundlevel"     "SNDLVL_NORM"
+    "wave"           "aps_customaudio/vocal/tutorialIntroduction.wav"
+}
+
+"aps.introWarning"
+{
+    "channel"        "CHAN_STATIC"
+    "volume"         "1.0"
+    "pitch"          "PITCH_NORM"
+    "soundlevel"     "SNDLVL_NORM"
+    "wave"           "aps_customaudio/vocal/tutorialWarning.wav"
+}
+
+"aps.demo01"
+{
+    "channel"        "CHAN_STATIC"
+    "volume"         "1.0"
+    "pitch"          "PITCH_NORM"
+    "soundlevel"     "SNDLVL_NORM"
+    "wave"           "aps_customaudio/tempdemoaudio/TA01.wav"
+}
+
+"aps.demo02"
+{
+    "channel"        "CHAN_STATIC"
+    "volume"         "1.0"
+    "pitch"          "PITCH_NORM"
+    "soundlevel"     "SNDLVL_NORM"
+    "wave"           "aps_customaudio/tempdemoaudio/TA02.wav"
+}
+
+"aps.demo03"
+{
+    "channel"        "CHAN_STATIC"
+    "volume"         "1.0"
+    "pitch"          "PITCH_NORM"
+    "soundlevel"     "SNDLVL_NORM"
+    "wave"           "aps_customaudio/tempdemoaudio/TA03.wav"
+}

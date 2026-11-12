@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+$baseTexture "pkvoidplaces/props/pb_pvoid_stonematerialgen_A"
+$surfaceprop tile
+"%keywords" void
+}

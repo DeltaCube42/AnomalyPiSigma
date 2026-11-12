@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+$baseTexture "pkvoidplaces/props/pb_void_lampshade_off"
+$surfaceprop plaster
+"%keywords" void
+}

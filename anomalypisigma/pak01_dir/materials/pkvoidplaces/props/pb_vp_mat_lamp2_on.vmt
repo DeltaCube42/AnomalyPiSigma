@@ -1,0 +1,6 @@
+"unlitgeneric"
+{
+	$model 1 $basetexture "pkvoidplaces/props/pb_vp_mat_lamp2_on"
+$surfaceprop glass
+"%keywords" pinkprop
+}

@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+$baseTexture "pkvoidplaces/props/pb_mpropmplastic_hgreen"
+	
+$surfaceprop plastic
+"%keywords" material
+}
